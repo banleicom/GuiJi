@@ -6,5 +6,6 @@
         <file>soure/rotateright.png</file>
         <file>soure/zoomin.png</file>
         <file>soure/zoomout.png</file>
+        <file>soure/demo.png</file>
     </qresource>
 </RCC>
